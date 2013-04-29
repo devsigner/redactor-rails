@@ -1,3 +1,5 @@
+Use with ActiveAdmin
+
 # Rails 3.2 Integration for Redactor (Devise Edition)
 
 The redactor-rails gem integrates the [Redactor](http://redactorjs.com/) editor with the Rails 3.2 asset pipeline.
