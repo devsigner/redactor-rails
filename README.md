@@ -1,4 +1,4 @@
-Use with ActiveAdmin
+Fix for use with ActiveAdmin
 
 # Rails 3.2 Integration for Redactor (Devise Edition)
 
