@@ -12,7 +12,7 @@ module RedactorRails
           end
 
           def image
-            url
+            url(:content)
           end
 
           def thumb
